@@ -1,5 +1,3 @@
-# PCAexample
-
 # PCA (Principal Component Analysis) Implementations
 
 This repository demonstrates three different approaches to implementing **Principal Component Analysis (PCA)**:
